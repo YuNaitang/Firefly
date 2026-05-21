@@ -2,7 +2,7 @@
 title: 系统引导界面美化
 published: 2026-05-21
 pinned: true
-description: 这是简介
+description: 多系统引导美化
 tags:
   - 博客
   - 美化
