@@ -126,7 +126,7 @@ Rename-Item S:\EFI\refind\refind.conf-sample refind.conf
 ### 3.2 配置文件解析
 
 `refind.conf` 原始配置建议保留项：
-```conf
+```txt
 # 原始分辨率设置
 resolution 1024 768
 
@@ -139,7 +139,7 @@ showtools shell,memtest,gdisk,reboot
 ```
 
 修改项：
-```conf
+```txt
 # 提升超时等待时间
 timeout 10
 
@@ -168,7 +168,7 @@ include themes/minimal/theme.conf
 4. 使用UEFI工具（`easyUEFI`/`DiskGenius`等）修改启动序列，添加并上移`HackBGRT`项为首位（设为默认）。
    如果无法调整，请前往BIOS进行调整。
 
-```conf
+```txt
 # 修改默认启动菜单项，默认MS为Windows启动菜单
 boot=\EFI\refind\refind_x64.efi
 
@@ -214,7 +214,7 @@ Copy-Item -Path ".\minimal\*" -Destination "S:\EFI\refind\themes\minimal\" -Recu
 
 `refind.conf`
 
-```conf
+```txt
 # 启用主题支持，前文配置过此处可跳过
 # 主题路径声明（注意斜杠方向）
 include themes/minimal/theme.conf
@@ -224,7 +224,7 @@ include themes/minimal/theme.conf
 theme.conf
 `
 
-```conf
+```txt
 # 自定义启动项示例
 # 仅作演示，按需配置
 menuentry "Arch Linux" {
