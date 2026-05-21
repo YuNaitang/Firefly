@@ -65,16 +65,10 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		// 子菜单
 		children: [
 			{
-				name: "我的世界服务器",
-				url: "https://mcs.yunaitang.top",
-				external: true,
-				icon: "fa7-brands:minecraft",
-			},
-			{
 				name: "服务状态页",
 				url: "https://status.yunaitang.top",
 				external: true,
-				icon: "fa7-brands:server",
+				icon: "fa7-brands:cloudflare",
 			}
 		],
 	});
