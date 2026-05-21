@@ -1,5 +1,6 @@
 name = "firefly"
-compatibility_date = "2026-05-21" # 更为今日
+compatibility_date = "2026-05-21"
+node_compat = true
 
 [assets]
 directory = "./dist"
