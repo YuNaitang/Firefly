@@ -6,7 +6,7 @@ description: 这是简介
 tags:
   - Markdown
   - 博客
-category: 文章示例
+category: 文章
 draft: false
 image: https://src.yunaitang.top/server-icon.png
 ---

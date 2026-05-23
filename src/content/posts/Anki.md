@@ -2,7 +2,7 @@
 title: Anki知识卡片，复习好工具
 published: 2026-05-22
 updated: 2026-05-22
-pinned: true
+pinned: false
 description: 基于间隔重复理论的智能卡片学习软件Anki，从下载安装到进阶配置，让你的复习效率翻倍。
 tags:
   - 教程
@@ -11,7 +11,7 @@ tags:
   - 知识
   - 效率工具
   - 学习方法
-draft: true
+draft: false
 category: 工具教程
 ---
 # 高效复习的工具--Anki知识卡片

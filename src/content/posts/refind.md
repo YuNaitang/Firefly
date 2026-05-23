@@ -1,7 +1,7 @@
 ---
 title: 系统引导界面美化
 published: 2026-05-21
-pinned: true
+pinned: false
 description: 多系统引导美化
 tags:
   - 博客
@@ -9,7 +9,7 @@ tags:
   - 系统
   - 主题
   - 教程
-category: 文章示例
+category: 工具教程
 draft: false
 image: api
 ---
