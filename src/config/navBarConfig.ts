@@ -69,6 +69,18 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				url: "https://status.yunaitang.top",
 				external: true,
 				icon: "fa7-brands:cloudflare",
+			},
+			{
+				name: "主页",
+				url: "https://www.yunaitang.top",
+				external: true,
+				icon: "material-symbols:home",
+			},
+			{
+				name: "新闻",
+				url: "https://news.yunaitang.top",
+				external: true,
+				icon: "material-symbols:news",
 			}
 		],
 	});
