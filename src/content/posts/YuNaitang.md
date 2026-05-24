@@ -8,7 +8,7 @@ tags:
   - 博客
 category: 文章
 draft: false
-image: https://src.yunaitang.top/server-icon.png
+image: api
 ---
 
 # 观测报告
