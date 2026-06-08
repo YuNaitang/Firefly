@@ -10,6 +10,7 @@ tags:
 draft: false
 category: 故事
 date: 2026-05-31
+image: api
 ---
 
 奶糖说话的声音很小。

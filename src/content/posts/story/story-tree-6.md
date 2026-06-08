@@ -10,6 +10,7 @@ tags:
 draft: false
 category: 故事
 date: 2026-05-31
+image: api
 ---
 奶糖从来没有去过法国。
 

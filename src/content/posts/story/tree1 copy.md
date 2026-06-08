@@ -8,6 +8,7 @@ tags:
   - 日记
 draft: true
 category: 故事
+image: api
 ---
 # 奶糖——带刺的蓝玫瑰
 

@@ -10,6 +10,7 @@ tags:
 draft: false
 category: 故事
 date: 2026-05-31
+image: api
 ---
 有人问过奶糖：“你希望别人怎么看你？”
 

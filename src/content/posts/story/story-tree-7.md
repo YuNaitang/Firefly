@@ -10,6 +10,7 @@ tags:
 draft: false
 category: 故事
 date: 2026-05-31
+image: api
 ---
 小鱼有时候觉得，奶糖这个人，温柔得有点笨。
 
