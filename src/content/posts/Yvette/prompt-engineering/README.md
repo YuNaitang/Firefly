@@ -12,7 +12,6 @@ tags:
   - 总结
   - 深度研究
 category: 伊薇特
-image: api
 ---
 
 # 提示词工程深度研究报告

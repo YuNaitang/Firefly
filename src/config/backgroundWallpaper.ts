@@ -43,10 +43,12 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		desktop: [
 			"assets/images/DesktopWallpaper/d1.avif",
 			"assets/images/DesktopWallpaper/d2.avif",
-			"assets/images/DesktopWallpaper/d3.avif",
 			"assets/images/DesktopWallpaper/d4.avif",
 			"assets/images/DesktopWallpaper/d5.avif",
 			"assets/images/DesktopWallpaper/d6.avif",
+			"assets/images/DesktopWallpaper/n1.webp",
+			"assets/images/DesktopWallpaper/n2.webp",
+			"assets/images/DesktopWallpaper/n3.webp",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
@@ -57,6 +59,10 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			"assets/images/MobileWallpaper/m4.avif",
 			"assets/images/MobileWallpaper/m5.avif",
 			"assets/images/MobileWallpaper/m6.avif",
+			"assets/images/MobileWallpaper/y1.webp",
+			"assets/images/MobileWallpaper/y2.webp",
+			"assets/images/MobileWallpaper/y3.webp",
+			"assets/images/MobileWallpaper/y4.webp",
 		],
 	},
 	// 横幅壁纸和全屏壁纸共享配置
@@ -70,17 +76,23 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "YuNaitang's Blog",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"一三五罗曼蒂克二四六希区柯克周日休克",
+				"我有一个压箱底的笑话...但是我找不到钥匙了",
+				"熬夜可以预防老年痴呆--因为它可以让你活不到那个时候",
+				"好想变成猫",
+				"Ciallo～(∠・ω< )⌒☆",
+				"鼐是大鼎, 棠是海棠",
+				"人生苦短，及时行乐",
+				"记录人类完蛋全过程",
+				"欢迎来到我的博客",
+				"想去一个充满炸鱼薯条的世界",
+				"伊薇特是温柔可靠的大姐姐",
+				"Catppuccin Mocha~(=^･ω･^=)~",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
